@@ -1,0 +1,40 @@
+/*div {
+	border: 1px solid red;
+}*/
+
+
+body {
+	background-color: #eaeaea;
+}
+
+#about {
+	margin-top: 120px;
+}
+
+#profile-pic {
+	max-height: 300px;
+}
+
+
+.bio-text {
+	vertical-align: middle;
+	padding: 8% 60px 8% 25px;
+}
+
+p {
+	font-size: 18px;	
+}
+
+.navbar {
+	background: tomato !important; 
+	color: white !important;
+	height: 80px;
+}
+
+footer {
+	height: 80px;
+	background: tomato;
+	color: white;
+	margin-bottom: -40px;
+	padding-top: 30px; 
+}
